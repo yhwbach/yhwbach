@@ -1,7 +1,10 @@
 ## Howdy :wave:
 
-<a href="https://www.linkedin.com/in/daniel-brai-12baa21a3/">
-  
+<a style="text-decoration: none;" href="https://www.twitter.com/daniel_brai/">
+  <img src="/X-logo.png" alt="Daniel's X" height="24px" width="24px">
+</a>
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/daniel-brai-12baa21a3/">
+  <img src="/Linkedln-logo.png" alt="Daniel's LinkedIn" height="26px" width="26px">
 </a>
 
 <br/>
