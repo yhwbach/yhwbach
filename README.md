@@ -10,7 +10,9 @@
 <br/>
 <br/>
 
-I'm Daniel, a Software Engineer based in Lagos, Nigeria. 
+I'm Daniel, a Software Engineer based in Lagos, Nigeria solving problems with mostly Typescript.
 
-I enjoy reading books on Non-Fiction, Fiction and Personal Growth and Mangas.
+Besides programming, I enjoy reading books on Non-Fiction, Fiction and Personal Growth and Mangas.
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
